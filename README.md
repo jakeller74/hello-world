@@ -1,2 +1,3 @@
 # hello-world
 A small first step into a larger world...
+I'm not really a software devloper; I'm just a n00b, who wants to learn as much as he can in this life. A big part of that is forming a better base of knowledge regarding machine learning, artificial intelligence, robotics, and the other technological advances that mark our world.
